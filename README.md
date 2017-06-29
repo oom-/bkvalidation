@@ -1,4 +1,35 @@
 # BkValidation
+Remplis l'enquête de satisfaction automatiquement et vous retourne le code.
+### Example:
+```
+./getCode.py 22407 1 4 16 21 03
+Ok, c'est parti pour un burger gratos !
+Initialisation du navigateur :
+Ok.
+Remplissage du formulaire :
+1%
+1%
+2%
+3%
+7%
+11%
+12%
+13%
+32%
+34%
+41%
+45%
+51%
+70%
+81%
+85%
+85%
+86%
+86%
+94%
+97%
+Code de validation : WH027291
+```
 ### Install
 #### Selenium drivers
 ```
